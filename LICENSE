@@ -1,0 +1,62 @@
+HYPERNOVA-DEVELOPER NOVA PUBLIC LICENSE (HD NPL) v2.0
+------------------------------------------------
+<program> Copyright (c) <year> <developer>
+
+1. PREAMBLE: THE DOCTRINE OF PURE POWER
+This software is engineered under the "Pure Power" philosophy. 
+It is designed for efficiency, speed, and professional integrity. 
+If you lack respect for the machine, this software is not for you.
+
+2. CREDIT AND BRANDING REQUIREMENTS
+Any distribution, in source or binary form, MUST retain the attribution 
+to "hypernova-developer". The "Designed by hypernova-developer" notice 
+and all HyperFetch visual outputs (including ASCII art) must remain 
+unaltered and visible to the end-user.
+
+3. MANDATORY COPYLEFT & OPEN SOURCE
+This license follows a strict recursive open-source policy. Any project, 
+software, or module that uses, incorporates, or derives from this source 
+code MUST also be released under the GNU GPL v3.0 (or later) and this 
+HD HPL v1.0. You cannot turn "Pure Power" into private profit.
+
+4. PROTECTION OF INTEGRITY
+The user is prohibited from obscuring the origin of this software. 
+The branding "hypernova-developer" is the sole identifier for the 
+author. No personal names shall be used in association with this 
+license or the software's credits.
+
+5. THE TORVALDS PROVISO
+"If you think your users are idiots, only idiots will use it." 
+This software assumes the user is competent. Any modification that 
+intentionally degrades performance or adds bloat to the core logic 
+is a violation of the "Pure Power" principle.
+
+6. NO WARRANTY
+This software is provided "AS IS", without warranty of any kind. 
+The author (hypernova-developer) is not responsible for any system 
+failures or excessive speed achieved by this software.
+
+7. THE ANTI-EXPLOIT & ANTI-MINING CLAUSE
+This software is a guest on the CPU. It shall not be used to mine 
+cryptocurrency, execute unauthorized telemetry, or perform any
+background tasks that degrade hardware longevity for third-party
+gain. Any attempt to turn 'Pure Power' into 'Parasitic Power' is 
+a breach of this license.
+
+8. HARDWARE-CENTRIC OPTIMIZATION MANDATE
+Any fork or derivative of this software must prioritize direct hardware
+communication (Bare Metal philosophy). Introducing abstraction layers that
+increase latency or memory footprint unnecessarily is considered a violation
+of the developer's intent. Efficiency is not an option; it is a requirement.
+(Python-like VM based languages are still supported.)
+
+9. THE NON-SUBSCRIPTION EDICT
+This software, and all its derivatives, shall remain free from subscription-based
+paywalls. Access to the full power of the machine is a fundamental right of the
+user. No 'Activation Watermarks' or 'Premium Locked Features' shall ever be implemented.
+
+------------------------------------------------
+PURE POWER IS THE LAW OF OUR THOUGHT.
+------------------------------------------------
+
+License prepared by hypernova-developer for developers.
